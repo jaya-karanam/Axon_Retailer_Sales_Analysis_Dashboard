@@ -2,10 +2,10 @@
 ## Description:
 The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) solution designed to address the data management and analysis challenges faced by Axon, a retailer specializing in classic cars. Axon is currently struggling to efficiently manage and gain meaningful insights from their sales data, leading to difficulties in decision-making processes. To overcome these challenges, this project leverages the capabilities of Microsoft PowerBI and SQL to create a robust BI system tailored to Axon's needs.
 
-## Explore the Interactive Dashboard: Dashboard
-Dashboard:
+## Explore the Dashboard : 
+
 <img width="491" alt="capstone_project_pics.pdf" src="https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/blob/main/capstone_project_pics.pdf">
-https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/blob/main/capstone_project_pics.pdf
+
 
 ## Key Features:
 Data Integration: We utilize a MySQL database to store crucial business data, including customer details, product information, sales orders, and more.
