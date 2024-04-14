@@ -4,7 +4,7 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 
 ## Explore the Interactive Dashboard: Dashboard
 Dashboard:
-Recording 2024-01-01 211332
+
 
 ## Key Features:
 Data Integration: We utilize a MySQL database to store crucial business data, including customer details, product information, sales orders, and more.
