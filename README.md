@@ -4,7 +4,7 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 
 ## Explore the Interactive Dashboard: Dashboard
 Dashboard:
-
+<img width="491" alt="capstone_project_pics" src="https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/assets/165159631/d67a465f-cdc8-4413-b0c9-355af21d0332">
 
 
 ## Key Features:
