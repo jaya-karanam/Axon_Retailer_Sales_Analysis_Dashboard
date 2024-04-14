@@ -4,9 +4,9 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 
 ## Explore the Interactive Dashboard: Dashboard
 Dashboard:
-<img width="491" alt="capstone_project_pics" src="https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/capstone_project_pics.pdf">
+<img width="491" alt="capstone_project_pics" src="(https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/blob/main/capstone_project_pics.pdf)">
 
-
+https://github.com/jaya-karanam/Axon_Retailer_Sales_Analysis_Dashboard/blob/main/capstone_project_pics.pdf
 ## Key Features:
 Data Integration: We utilize a MySQL database to store crucial business data, including customer details, product information, sales orders, and more.
 
